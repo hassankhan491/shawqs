@@ -8,8 +8,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      colors: {
-        // We'll add your custom colors here later based on Dribbble designs
+      fontFamily: {
+        serif: ['Cormorant Garamond', 'serif'],
+        sans: ['Montserrat', 'sans-serif'],
       },
     },
   },
